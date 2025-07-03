@@ -1,0 +1,7 @@
+ultralytics
+fastapi
+uvicorn
+python-multipart
+db-sqlite3
+sqlalchemy 
+databases 
